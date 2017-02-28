@@ -2,8 +2,8 @@
 /**
  * Write a description of class HelloWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Morgan Mintzer and Elena Covill) 
+ * @version (2/27/17)
  */
 public class HelloWorld
 {
